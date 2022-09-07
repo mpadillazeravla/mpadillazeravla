@@ -1,5 +1,5 @@
 - 👋  Hi, I'm Miguel A. Padilla, for almost 15 years I've been sales manager, now 👇
-- 🌱 I’m studying with 4Geeks Academy to become a Full Stack Developer and change my life
+- 🌱 Thanks to 4Geeks Academy I have become a Full Stack Developer
 - 🤔 I like tech & sports, cycling above all
 - 📫 How to reach me: mikepadilla82@gmail.com or www.linkedin.com/in/padilla-alvarez
 
